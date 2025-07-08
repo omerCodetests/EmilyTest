@@ -1,1 +1,1 @@
-secretPassword=AIzaCG3M45aaSFacfRa5xfaO0eEaKerNaMGbaOa
+newsecretPassword=AIzaCG3M45aaSFacfRa5xfaO0eEaKerNaMGbaOa
